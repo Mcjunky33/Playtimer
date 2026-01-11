@@ -1,4 +1,4 @@
-# Playtimer
+# ShowPlayTime and Timer
 
 ShowPlayTime is a highly customizable client-side mod for Minecraft (Fabric) that gives you full control over your playtime and timers. Whether for challenges, speedruns, or just keeping track of your session, this mod provides all the tools you need.
 

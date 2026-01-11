@@ -1,0 +1,20 @@
+{
+  "text.showplaytime.timer_finished": "§6[Timer] §eTime is up!",
+  "text.showplaytime.hud_reverting": "§6[Timer] §7Playtime is now being displayed again.",
+  "text.showplaytime.timer_already_running": "§6[Timer] §cError: Timer is already running!",
+  "text.showplaytime.timer_added": "§6[Timer] §aAdded §e%s §ato the timer.",
+  "text.showplaytime.timer_not_active": "§6[Timer] §cError: No timer is currently active or set.",
+  "text.showplaytime.timer_not_running": "§6[Timer] §cError: Timer is already paused or not running.",
+  "text.showplaytime.timer_no_resume": "§6[Timer] §cError: Nothing to resume. Set a time first!",
+  "text.showplaytime.playtime_current": "§6[Playtime] §7Current session: §e%s",
+  "text.showplaytime.timer_current": "§6[Timer] §7Current time: §e%s",
+  "text.showplaytime.timer_started": "§6[Timer] §aStarted!",
+  "text.showplaytime.timer_stopped": "§6[Timer] §cStopped & Reset.",
+  "text.showplaytime.timer_paused": "§6[Timer] §ePaused.",
+  "text.showplaytime.timer_resumed": "§6[Timer] §aResumed.",
+  "text.showplaytime.config_updated": "§6[Config] §e%s §7set to: §f%s",
+  "text.showplaytime.look_reset": "§6[Config] §eVisuals have been reset.",
+  "text.showplaytime.color_added": "§6[Color] §7Added: §f%s",
+  "text.showplaytime.color_removed": "§6[Color] §7Removed: §f%s",
+  "text.showplaytime.color_cleared": "§6[Color] §7Colors reset to §fWhite§7."
+}

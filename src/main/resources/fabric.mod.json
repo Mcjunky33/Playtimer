@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "showplaytimer",
+	"version": "${version}",
+	"name": "ShowPlayTimer",
+	"description": "ShowPlayTimer gives you full control over your playtime and timers. Whether for challenges, speedruns, or just keeping track of your session, this mod provides all the tools you need.",
+	"authors": [
+		"Mcjunky33"
+	],
+	"contact": {
+		"sources": "https://github.com/Mcjunky33/Playtimer/tree/main"
+	},
+	"license": "Mit",
+	"icon": "assets/showplaytime/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"de.mcjunky33.ShowPlayTime"
+		]
+	},
+	"mixins": [
+		"showplaytime.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "=1.21.x",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
